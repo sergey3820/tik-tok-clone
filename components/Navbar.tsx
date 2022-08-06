@@ -4,7 +4,6 @@ import Link from "next/link";
 import { GoogleLogin, googleLogout } from "@react-oauth/google";
 import { useRouter } from "next/router";
 import {AiOutlineLogout} from "react-icons/ai";
-import {BeSearch} from "react-icons/bi";
 import { IoMdAdd } from "react-icons/io";
 import Logo from "../utils/tiktik-logo.png";
 import {createOrGetUser} from "../utils";
